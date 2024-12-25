@@ -5,7 +5,7 @@
             "items": [
                 {
                     "text": "团队介绍",
-                    "path": "team.md"
+                    "path": "about/team.md"
                 }
             ]
         }
