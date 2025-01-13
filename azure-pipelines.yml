@@ -7,7 +7,7 @@ trigger:
 - manual
 
 pool:
-  vmImage: macOS-15-latest
+  vmImage: macOS-15
 
 steps:
 - script: |
