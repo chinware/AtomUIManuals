@@ -7,7 +7,7 @@ trigger:
 - manual
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: macOS-15-latest
 
 steps:
 - script: |
